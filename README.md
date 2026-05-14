@@ -22,7 +22,4 @@ I am a **Software Developer & Digital Entrepreneur** based in Hanoi, Vietnam. I 
 
 ### 📫 Connect with me
 
-*   **Website:**
-*   [stopwatch-online.com](https://stopwatch-online.com/)
-*   [bamgio.com](https://bamgio.com/)
-*   **Email:** [Your Professional Email]
+*   **Email:** [dogplayguitar {@} gmail {.} com]
