@@ -16,4 +16,4 @@ I am a **Software Developer & Digital Entrepreneur** based in Hanoi, Vietnam. I 
 
 ### 📫 Connect with me
 
-*   **Email:** [dogplayguitar {@} gmail {.} com]
+*   **Email:** dogplayguitar {@} gmail {.} com
